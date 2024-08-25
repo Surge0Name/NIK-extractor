@@ -5,3 +5,4 @@ Please follow the following steps for the best performance:
 - The ID card image must be in the correct position (not tilted), for example as below
 - The NIK text must be readable and have high contrast (good lighting)
 - The ID card background color must be a different color from the KTP background
+![Ideal Image](https://github.com/Surge0Name/NIK-extractor/blob/main/place-holder.jpg)
