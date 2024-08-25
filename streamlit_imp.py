@@ -56,7 +56,3 @@ if uploaded_img is not None:
         else:
             st.error("Gambar ideal tidak ditemukan. Pastikan path yang benar telah digunakan")
 
-#To do list:
-        #upload ke share streamlit (harus up ke github)
-        #buat readme.md
-        #jika gagal streamlit kirim github saja (perbaiki readme)
