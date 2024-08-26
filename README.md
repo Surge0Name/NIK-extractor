@@ -18,7 +18,7 @@ As the name suggest, you can use this to extract a mass image of ID card.
 - Run all, and wait
 
 ## stream_imp
-This is the file that you need to run if you wanted to run it locally. I have not deploy it because the streamlit cannot detect cv2 module. I do not know why, maybe it's a bug, not implemented, or my it is because my limited experience in coding. It is however working in localhost. Another note, since streamlit cannot take multiple file (if there are, i do not know how), this program, unfortunately, must make do with only handling one iamge at a time
+This is the file that you need to run if you wanted to run it locally. I have not deploy it because the streamlit cannot detect cv2 module. I do not know why, maybe it's a bug, not implemented, or it is because my limited experience in coding. It is however working in localhost. Another note, since streamlit cannot take multiple file (if there are, i do not know how), this program, unfortunately, must make do with only handling one image at a time
 - Run stream_imp.py using streamlit run <file_name>
 - Upload your image
 - Wait for it to extract the ID card number
